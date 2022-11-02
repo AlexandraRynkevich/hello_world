@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 checking status
 new branch test. 
 first branch editing test
+NEW changes for branch one
