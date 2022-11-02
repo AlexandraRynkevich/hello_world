@@ -7,3 +7,4 @@ checking status
 new branch test. 
 first branch editing test
 bla bla
+NEW changes for branch one
